@@ -7,3 +7,10 @@
 ### House
 #### Address, Year Built, Square Footage, Bedrooms, Baths, Lot Size
 ### Parcel and Tax Records
+#### Parcel Boundaries, Assessed value land, Assessed value structure, Assessed Total, Past sale date and price, owner name
+### Zoning and Land Use
+#### Zoning Category, Setbacks, Height Limits, Lot Coverage, Adu/DADU eligibility, existing building permits, Prior remodels, Code Violations, permits
+### Market And Financial
+#### Area rental info, Specific house rental info, median home prices in area, estimate price for this house, inventory trends
+### Neighborhood and quality of life
+#### Schools local info, crime info, environmental, transit nearby, neighborhood demographics
