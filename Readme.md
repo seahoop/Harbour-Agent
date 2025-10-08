@@ -11,8 +11,6 @@ It then compiles this information into a **professional-grade feasibility and in
 - ✅ Financial forecasts (rental income, resale value, and cash flow projections)  
 - ✅ Market and neighborhood insights to measure demand and livability  
 
-To make the analysis more intuitive, Harbour-Agent can generate **AI-powered visualizations** that illustrate possible development scenarios—allowing investors to literally *see* the future potential of their property.  
-
 By automating a process that traditionally costs **thousands of dollars** and takes **weeks of consultant time**, Harbour-Agent delivers **fast, affordable, and enterprise-grade decision support in minutes**, empowering everyday investors to act with confidence and speed.  
 
 ---
@@ -59,3 +57,7 @@ By automating a process that traditionally costs **thousands of dollars** and ta
 
 ## Thoughts
 - Investors often analyze tens-hundreds of properties in a given area, and quickly filtering out those that aren’t feasible can be extremely time-consuming. Many property listings also suffer from poor photos that fail to reflect the true value or condition of the home. As a result, investors browsing the public market may see long listing times and assume that other investors have already deemed the property unprofitable—causing them to pass on opportunities that could be worth hundreds of thousands of dollars. This is where Harbour Agent comes in. By simply entering an address, the agent uses advanced computer vision to analyze MLS photos and evaluate the property’s condition alongside official city data, helping investors uncover hidden value that others overlook.
+
+
+## Reach Goal
+- To make the analysis more intuitive, Harbour-Agent can generate **AI-powered visualizations** that illustrate possible development scenarios—allowing investors to literally *see* the future potential of their property.  
