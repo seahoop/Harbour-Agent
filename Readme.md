@@ -3,7 +3,7 @@
 ## 📖 Description  
 **Harbour-Agent** is an **AI-powered real estate investment assistant** that helps small-scale investors, landlords, and homeowners evaluate properties instantly—without the cost and delays of traditional feasibility studies.  
 
-With just an address, Harbour-Agent automatically gathers and analyzes a wide range of **public data sources**—including parcel and tax records, zoning and land use codes, rental benchmarks from HUD and Census APIs, flood and environmental risk data, and neighborhood indicators such as schools, crime, and demographics.  
+With just an address, Harbour-Agent automatically gathers and analyzes a wide range of **public data sources**—including parcel and tax records, zoning and land use codes, rental benchmarks from HUD and Census APIs, flood and environmental risk data, and neighborhood indicators such as schools, crime, and demographics. It will also use computer vision to scan through MLS photos to determine different parts of condition of house. 
 
 It then compiles this information into a **professional-grade feasibility and investment report**, showing:  
 - ✅ What can be legally developed on the property (e.g., single-family home, ADU/DADU, duplex, or mixed-use)  
@@ -57,4 +57,5 @@ By automating a process that traditionally costs **thousands of dollars** and ta
 - Nearby Transit Access & Walkability  
 - Neighborhood Demographics & Income Levels  
 
----
+## Thoughts
+- Investors often analyze tens-hundreds of properties in a given area, and quickly filtering out those that aren’t feasible can be extremely time-consuming. Many property listings also suffer from poor photos that fail to reflect the true value or condition of the home. As a result, investors browsing the public market may see long listing times and assume that other investors have already deemed the property unprofitable—causing them to pass on opportunities that could be worth hundreds of thousands of dollars. This is where Harbour Agent comes in. By simply entering an address, the agent uses advanced computer vision to analyze MLS photos and evaluate the property’s condition alongside official city data, helping investors uncover hidden value that others overlook.
